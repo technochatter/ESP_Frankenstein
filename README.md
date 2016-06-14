@@ -1,7 +1,7 @@
 # ESP_Frankenstein
 ####Added more pins to my ESP8266_01 board with careful soldering & skills ;)
 ##Pictures:
-![soldering pins](/blob/master/pics/IMG_5101.JPG?raw=true)
+![soldering pins](https://raw.githubusercontent.com/technochatter/ESP_Frankenstein/master/pics/IMG_5101.JPG?raw=true)
 ##Important Pins available:
 IC Pin No | Functional Name | Special Use
 -------|-------|--------------
