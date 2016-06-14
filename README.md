@@ -3,12 +3,14 @@
 Used enameled wire from defunct earphone headset wires, scraped off the end to solder and added a lot of flux to increase surface tension before soldering.Then closed my eyes during soldering and hoped for the best.
 
 ##Pictures:
-![image](https://raw.githubusercontent.com/technochatter/ESP_Frankenstein/master/pics/IMG_5076.JPG?raw=true)
-![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5101.JPG?raw=true)
-![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5108.JPG?raw=true)
-![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5112.JPG?raw=true)
-![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5118.JPG?raw=true)
-![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_20160327_061152390.jpg?raw=true)
+
+![image](https://raw.githubusercontent.com/technochatter/ESP_Frankenstein/master/pics/Face.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/1.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/2.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/3.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/4.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/5.jpg?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/6.jpg?raw=true)
 
 ##Important Pins available:
 IC Pin No | Functional Name | Special Use
