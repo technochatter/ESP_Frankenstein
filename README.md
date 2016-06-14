@@ -8,6 +8,7 @@ Used enameled wire from defunct earphone headset wires, scraped off the end to s
 ![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5108.JPG?raw=true)
 ![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5112.JPG?raw=true)
 ![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_5118.JPG?raw=true)
+![image](https://github.com/technochatter/ESP_Frankenstein/blob/master/pics/IMG_20160327_061152390.jpg?raw=true)
 
 ##Important Pins available:
 IC Pin No | Functional Name | Special Use
