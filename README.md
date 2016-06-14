@@ -21,3 +21,4 @@ IC Pin No | Functional Name | Special Use
 
 
 ##Project List:
+https://github.com/technochatter/LM35speak
